@@ -1,13 +1,13 @@
-# E-commerce Recommender System
+# E-commerce Recommender System (In progress)
 
 Django + PyTorch + PostgreSQL + MLflow based recommender system.
 
-## Setup Instructions
-
-### Prerequisites:
+## Prerequisites:
 Python 3.10+
-PostgreSQL (installed, running and configured)
-Redis (installed, running and configured)
+- PostgreSQL (installed, running and configured)
+- Redis (installed, running and configured)
+
+## Setup Instructions
 
 #### 1. Clone the repository
 ```bash
